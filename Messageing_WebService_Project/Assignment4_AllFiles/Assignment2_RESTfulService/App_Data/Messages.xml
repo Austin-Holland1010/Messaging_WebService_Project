@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+  <Message>
+    <senderID>10</senderID>
+    <recieverID>5</recieverID>
+    <msg>test1</msg>
+    <timestamp>2:21:23</timestamp>
+  </Message>
+  <Message>
+  </Message>
+</Messages>

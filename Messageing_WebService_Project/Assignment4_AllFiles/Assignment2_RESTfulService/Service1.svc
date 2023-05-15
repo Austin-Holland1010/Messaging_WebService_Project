@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Assignment2_RESTfulService.Service1" CodeBehind="Service1.svc.cs" Factory="System.ServiceModel.Activation.WebServiceHostFactory" %>
